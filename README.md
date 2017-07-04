@@ -1,12 +1,20 @@
-##### 材料:
+### 材料:
 
-> Fonts：https://fonts.googleapis.com/
-> Bootstrap CDN：https://www.bootstrapcdn.com/
-> https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js
-> jquery-3.2.1.： https://code.jquery.com/
-> unpkg：https://unpkg.com/scrollreveal/dist/scrollreveal.min.js
-> img ：https://pixabay.com/  by raniramli
-> ##### 鸣谢 [ @Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+
+Fonts：https://fonts.googleapis.com/
+
+Bootstrap CDN：https://www.bootstrapcdn.com/
+
+https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js
+
+jquery-3.2.1.： https://code.jquery.com/
+
+unpkg：https://unpkg.com/scrollreveal/dist/scrollreveal.min.js
+
+img ：https://pixabay.com/  by [raniramli](https://pixabay.com/zh/users/raniramli-731298/)
+
+##### 鸣谢 [ @Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+
 > [TechScroll视频教学课](https://www.youtube.com/watch?v=ePgnR4gHIi4&t=109s)行翻墙边看边动手，也许你js对你来说是一脸懵B。慢慢来日子长了，即便你依旧不会读，但你会认识它们。推荐给喜欢网页设计的每一位和我一样的设计小白
 
 
@@ -33,7 +41,8 @@ blush:Live：https://slayer1986.github.io/techscroll/
   </head>
 ```
 
-  ` window.sr = ScrollReveal();`
+##### window.sr = ScrollReveal();
+
   
 ```
       window.sr = ScrollReveal();
@@ -74,7 +83,10 @@ blush:Live：https://slayer1986.github.io/techscroll/
       });
     ```
 
-结尾部分
+
+##### 结尾部分
+
+
 
 ```
     $(function() {
