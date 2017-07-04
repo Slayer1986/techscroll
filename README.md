@@ -81,11 +81,9 @@ but...你还可以做一个伸手党:
         distance:'300px',
         viewFactor:0.2
       });
-    ```
-
-
-
-```$(function() {
+<!-- END Window.sr-->
+  <script>
+    $(function() {
       // Smooth Scrolling
       $('a[href*="#"]:not([href="#"])').click(function() {
         if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
@@ -100,5 +98,5 @@ but...你还可以做一个伸手党:
         }
       });
     });
-```
-
+    </script>
+    ```
