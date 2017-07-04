@@ -1,0 +1,83 @@
+body{
+    margin-top: 70px;
+    font-size: 16px;
+    background: #339;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: Poppins;
+    color: #fff;
+}
+
+p{
+    font-family: Roboto;
+    color: #dddddd;
+}
+
+.navbar-default{
+    background: transparent;
+    border: 0;
+    font-family: Poppins;
+}
+
+.navbar-brand{
+    font-size: 20px;
+    color: #fff; !important;
+    font-weight: bold;
+}
+
+#showcase h1{
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+#showcase img{
+    width: 80%;
+    margin-left: 60x;
+}
+
+#showcase .showcase-right{
+    margin-top: 90px;
+} 
+
+#testimonial{
+    background: #339;
+    padding: 50px 0 30px 0;/* top50,right0,bottom30,left0 */
+    text-align: center;
+    margin-top: 40px;
+}
+
+#testimonial p{
+    font-size: 32px;
+    font-family: 'Courier'; /*'Josefin Sans';*/
+    color: #f5f5f5;
+}
+
+#testimonial p.customer{
+    font-size: 20px;
+    color: #fff;
+}
+
+#info1 .info-right{
+    margin-top: 90px;
+}
+.info-left img{
+    width: 90%
+}
+
+#info2{
+    margin: 20px 0 60px 0; /*顶20,两边0,底部60 */
+}
+
+#contact{
+    background:#339;/*background: url(../img/image3.png);*/
+    padding: 40px;
+    color: #fff;
+    border-top: #fff200 7px solid;
+    border-bottom: #fff200 7px solid;
+}
+
+/*footer*/
+footer{
+    padding: 30px;
+}
