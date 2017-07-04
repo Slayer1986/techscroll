@@ -1,4 +1,4 @@
-### 材料:
+### 材料: 
 
 
 Fonts：https://fonts.googleapis.com/
@@ -19,7 +19,7 @@ img ：https://pixabay.com/  by [raniramli](https://pixabay.com/zh/users/raniram
 
 
 but...你还可以做一个伸手党:
-blush:Live：https://slayer1986.github.io/techscroll/
+:bowtie: Live：https://slayer1986.github.io/techscroll/
 
 
 ```
